@@ -1,0 +1,14 @@
+# Ignore virtual environment directories
+venv/
+.env/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore installed dependencies
+*.egg-info/
+*.dist-info/
+pip-wheel-metadata/
